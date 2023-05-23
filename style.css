@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Purnoor Kaur</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body class="black-theme">
+    <header>
+        <h1>Welcome to My Digital Store</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#products">Products</a></li>
+                <li><a href="#courses">Courses</a></li>
+                <li><a href="#coaching">Coaching</a></li>
+                <li><a href="#blogs">Blogs</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Welcome to My Digital Store</h2>
+        <p>We offer a wide range of digital products, courses, and coaching services to help you achieve your goals.</p>
+    </section>
+
+    <section id="products">
+        <h2>Featured Products</h2>
+        <div class="gallery">
+            <div class="item">
+                <img src="product1.jpg" alt="Product 1">
+                <h3>Product 1</h3>
+                <p>Description of Product 1.</p>
+                <a href="#">Buy Now</a>
+            </div>
+            <div class="item">
+                <img src="product2.jpg" alt="Product 2">
+                <h3>Product 2</h3>
+                <p>Description of Product 2.</p>
+                <a href="#">Buy Now</a>
+            </div>
+            <!-- Add more product items as needed -->
+        </div>
+    </section>
+
+    <section id="courses">
+        <h2>Courses</h2>
+        <ul>
+            <li>Course 1</li>
+            <li>Course 2</li>
+            <li>Course 3</li>
+            <!-- Add more courses as needed -->
+        </ul>
+    </section>
+
+    <section id="coaching">
+        <h2>Coaching</h2>
+        <p>Get personalized coaching sessions to help you achieve your goals.</p>
+        <a href="#">Book a Coaching Session</a>
+    </section>
+
+    <section id="blogs">
+        <h2>Blogs</h2>
+        <div class="blog">
+            <div class="blog-item">
+                <img src="unsplash1.jpg" alt="Blog 1">
+                <h3>Blog Title 1</h3>
+                <p>Summary of Blog 1.</p>
+                <a href="#">Read More</a>
+            </div>
+            <div class="blog-item">
+                <img src="unsplash2.jpg" alt="Blog 2">
+                <h3>Blog Title 2</h3>
+                <p>Summary of Blog 2.</p>
+                <a href="#">Read More</a>
+            </div>
+            <!-- Add more blog items as needed -->
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 My Digital Store. All rights reserved.</p>
+    </footer>
+</body>
+</html>
